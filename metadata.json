@@ -1,0 +1,6 @@
+{
+  "name": "수학 슈팅 스타 - 세자리수와 두자리수 연산 어드벤처",
+  "description": "초등 수학 세자리수와 두자리수의 곱셈과 나눗셈을 재미있게 마스터하는 슈팅 아케이드 게임. 정답을 조준 사격하고 명예의 전당 랭킹에 도전하세요!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
